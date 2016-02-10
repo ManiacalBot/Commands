@@ -55,10 +55,9 @@ General commands
 
 !meme help	Explanation of !meme
 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
 Audio commands
-
-
-Command	Description
 
 !youtube [link]	Play a youtube video in a voice channel
 
@@ -104,10 +103,9 @@ Command	Description
 
 !downloadmode	Enables or disables download mode. (admin only)
 
+
+~~~~~~~~~~~~~~~~~~~~~
 Admin commands
-
-
-Command	Description
 
 !addwords [word1 word2 (...)] [phrase/with/many/words]	Add words to message filter
 
@@ -141,10 +139,9 @@ Command	Description
 
 !setting [setting] [value]	Modify setting
 
+
+~~~~~~~~~~~~~~~~~~~
 Economy commands
-
-
-Command	Description
 
 !register	Register a new account
 
