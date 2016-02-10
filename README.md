@@ -1,9 +1,12 @@
 General commands
 
-Command	Description
+
 !flip	Flip a coin
+
 !rps [rock/paper/scissors]	Play RPS
+
 !proverb	Random proverb
+
 !choose [option1 or option2 or option3 (...)]	Random choice. Supports multiple words
 !8 [question?]	Ask 8 ball a question
 !sw	Start/stop the stopwatch
